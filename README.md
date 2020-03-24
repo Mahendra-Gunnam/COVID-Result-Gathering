@@ -1,2 +1,2 @@
 # COVID-Result-Gathering
-Displayed only the result of COVID Country Deaths Rate
+The concentrates on confirmed,deaths and recovered cases of Corona all around the world.
